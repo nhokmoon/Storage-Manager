@@ -49,5 +49,25 @@
     "customizer",
     "iconify",
     "tanstack"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#f4b96b",
+    "activityBar.background": "#f4b96b",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#0b9459",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#f4b96b",
+    "statusBar.background": "#f1a23b",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#e88b11",
+    "statusBarItem.remoteBackground": "#f1a23b",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#f1a23b",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#f1a23b99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#F1A23BFF"
 }
